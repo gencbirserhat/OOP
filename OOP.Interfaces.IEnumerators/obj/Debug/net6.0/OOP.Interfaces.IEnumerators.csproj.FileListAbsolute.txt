@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\bin\Debug\net6.0\OOP.Interfaces.IEnumerators.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\bin\Debug\net6.0\OOP.Interfaces.IEnumerators.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\bin\Debug\net6.0\OOP.Interfaces.IEnumerators.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\bin\Debug\net6.0\OOP.Interfaces.IEnumerators.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\bin\Debug\net6.0\OOP.Interfaces.IEnumerators.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\refint\OOP.Interfaces.IEnumerators.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\OOP.Interfaces.IEnumerators.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IEnumerators\obj\Debug\net6.0\ref\OOP.Interfaces.IEnumerators.dll
