@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\bin\Debug\net6.0\OOP.Interfaces.ICloneables.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\bin\Debug\net6.0\OOP.Interfaces.ICloneables.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\bin\Debug\net6.0\OOP.Interfaces.ICloneables.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\bin\Debug\net6.0\OOP.Interfaces.ICloneables.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\bin\Debug\net6.0\OOP.Interfaces.ICloneables.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\refint\OOP.Interfaces.ICloneables.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\OOP.Interfaces.ICloneables.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.ICloneable\obj\Debug\net6.0\ref\OOP.Interfaces.ICloneables.dll

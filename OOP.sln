@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.AddAClass", "OOP.AddACl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Inheritance", "OOP.Inheritance\OOP.Inheritance.csproj", "{76B304EF-4306-4C5C-85BE-D9B687758444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.AbstractClassAndMethods", "OOP.AbstractClassAndMethods\OOP.AbstractClassAndMethods.csproj", "{223CF3D8-21DE-4C8A-81A2-8FA87B2C9321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.AbstractClassAndMethods", "OOP.AbstractClassAndMethods\OOP.AbstractClassAndMethods.csproj", "{223CF3D8-21DE-4C8A-81A2-8FA87B2C9321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces", "OOP.Interfaces\OOP.Interfaces.csproj", "{8EC6828A-39CB-46BD-8B3B-CC8B89C95BD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces", "OOP.Interfaces\OOP.Interfaces.csproj", "{8EC6828A-39CB-46BD-8B3B-CC8B89C95BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IFormattables", "OOP.Interfaces.IFormattable\OOP.Interfaces.IFormattables.csproj", "{B559FEBC-E826-47E9-8E19-CDBC2B4DFD7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IFormattables", "OOP.Interfaces.IFormattable\OOP.Interfaces.IFormattables.csproj", "{B559FEBC-E826-47E9-8E19-CDBC2B4DFD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.ICloneables", "OOP.Interfaces.ICloneable\OOP.Interfaces.ICloneables.csproj", "{906811A8-8E30-442A-AAFF-984A3B374163}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B559FEBC-E826-47E9-8E19-CDBC2B4DFD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B559FEBC-E826-47E9-8E19-CDBC2B4DFD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B559FEBC-E826-47E9-8E19-CDBC2B4DFD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906811A8-8E30-442A-AAFF-984A3B374163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906811A8-8E30-442A-AAFF-984A3B374163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906811A8-8E30-442A-AAFF-984A3B374163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906811A8-8E30-442A-AAFF-984A3B374163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
