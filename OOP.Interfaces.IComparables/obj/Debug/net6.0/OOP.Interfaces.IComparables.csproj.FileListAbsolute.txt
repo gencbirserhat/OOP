@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\bin\Debug\net6.0\OOP.Interfaces.IComparables.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\bin\Debug\net6.0\OOP.Interfaces.IComparables.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\bin\Debug\net6.0\OOP.Interfaces.IComparables.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\bin\Debug\net6.0\OOP.Interfaces.IComparables.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\bin\Debug\net6.0\OOP.Interfaces.IComparables.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\refint\OOP.Interfaces.IComparables.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\OOP.Interfaces.IComparables.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.IComparables\obj\Debug\net6.0\ref\OOP.Interfaces.IComparables.dll

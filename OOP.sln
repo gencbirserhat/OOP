@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IFormattable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.ICloneables", "OOP.Interfaces.ICloneable\OOP.Interfaces.ICloneables.csproj", "{906811A8-8E30-442A-AAFF-984A3B374163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IComparables", "OOP.Interfaces.IComparables\OOP.Interfaces.IComparables.csproj", "{C71B4F6A-36D6-4AAE-80C1-34B333895223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IComparablesT", "OOP.Interfaces.IComparablesT\OOP.Interfaces.IComparablesT.csproj", "{9AA5F62B-2362-4924-8B49-9FE82661369D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{906811A8-8E30-442A-AAFF-984A3B374163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{906811A8-8E30-442A-AAFF-984A3B374163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{906811A8-8E30-442A-AAFF-984A3B374163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71B4F6A-36D6-4AAE-80C1-34B333895223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71B4F6A-36D6-4AAE-80C1-34B333895223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71B4F6A-36D6-4AAE-80C1-34B333895223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71B4F6A-36D6-4AAE-80C1-34B333895223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA5F62B-2362-4924-8B49-9FE82661369D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA5F62B-2362-4924-8B49-9FE82661369D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA5F62B-2362-4924-8B49-9FE82661369D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA5F62B-2362-4924-8B49-9FE82661369D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
