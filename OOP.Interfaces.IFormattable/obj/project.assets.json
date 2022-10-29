@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.Interfaces.IFormattable\\OOP.Interfaces.IFormattables.csproj",
+      "projectUniqueName": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.Interfaces.IFormattable\\OOP.Interfaces.IFormattables.csproj",
       "projectName": "OOP.Interfaces.IFormattables",
-      "projectPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.Interfaces.IFormattable\\OOP.Interfaces.IFormattables.csproj",
+      "projectPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.Interfaces.IFormattable\\OOP.Interfaces.IFormattables.csproj",
       "packagesPath": "C:\\Users\\Serhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.Interfaces.IFormattable\\obj\\",
+      "outputPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.Interfaces.IFormattable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

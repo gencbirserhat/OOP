@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.Interfaces\\OOP.Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.Interfaces\\OOP.Interfaces.csproj",
       "projectName": "OOP.Interfaces",
-      "projectPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.Interfaces\\OOP.Interfaces.csproj",
+      "projectPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.Interfaces\\OOP.Interfaces.csproj",
       "packagesPath": "C:\\Users\\Serhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

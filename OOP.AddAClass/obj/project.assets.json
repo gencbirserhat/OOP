@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AddAClass\\OOP.AddAClass.csproj",
+      "projectUniqueName": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AddAClass\\OOP.AddAClass.csproj",
       "projectName": "OOP.AddAClass",
-      "projectPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AddAClass\\OOP.AddAClass.csproj",
+      "projectPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AddAClass\\OOP.AddAClass.csproj",
       "packagesPath": "C:\\Users\\Serhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AddAClass\\obj\\",
+      "outputPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AddAClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

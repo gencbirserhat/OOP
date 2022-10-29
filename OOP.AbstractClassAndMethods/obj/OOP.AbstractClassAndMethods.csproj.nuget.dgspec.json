@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj": {}
+    "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj": {
+    "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj",
+        "projectUniqueName": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj",
         "projectName": "OOP.AbstractClassAndMethods",
-        "projectPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj",
+        "projectPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AbstractClassAndMethods\\OOP.AbstractClassAndMethods.csproj",
         "packagesPath": "C:\\Users\\Serhat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serhat\\Desktop\\c#-projects\\OOP\\OOP.AbstractClassAndMethods\\obj\\",
+        "outputPath": "C:\\Users\\Serhat\\Documents\\GitHub\\OOP\\OOP.AbstractClassAndMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
