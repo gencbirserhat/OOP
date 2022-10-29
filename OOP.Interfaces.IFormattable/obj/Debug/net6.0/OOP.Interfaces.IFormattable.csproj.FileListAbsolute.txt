@@ -1,0 +1,15 @@
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.exe
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.deps.json
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.dll
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.pdb
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.dll
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\refint\OOP.Interfaces.IFormattable.dll
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.pdb
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.Interfaces.IFormattable\obj\Debug\net6.0\ref\OOP.Interfaces.IFormattable.dll

@@ -1,0 +1,15 @@
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\bin\Debug\net6.0\OOP.AddAClass.exe
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\bin\Debug\net6.0\OOP.AddAClass.deps.json
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\bin\Debug\net6.0\OOP.AddAClass.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\bin\Debug\net6.0\OOP.AddAClass.dll
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\bin\Debug\net6.0\OOP.AddAClass.pdb
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.dll
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\refint\OOP.AddAClass.dll
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.pdb
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\OOP.AddAClass.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\c#-projects\OOP.AddAClass\OOP.AddAClass\obj\Debug\net6.0\ref\OOP.AddAClass.dll
