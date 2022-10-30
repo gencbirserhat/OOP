@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net6.0\OOP.Interfaces.LooselyCoupled.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net6.0\OOP.Interfaces.LooselyCoupled.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net6.0\OOP.Interfaces.LooselyCoupled.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net6.0\OOP.Interfaces.LooselyCoupled.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\bin\Debug\net6.0\OOP.Interfaces.LooselyCoupled.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\refint\OOP.Interfaces.LooselyCoupled.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\OOP.Interfaces.LooselyCoupled.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.LooselyCoupled\obj\Debug\net6.0\ref\OOP.Interfaces.LooselyCoupled.dll

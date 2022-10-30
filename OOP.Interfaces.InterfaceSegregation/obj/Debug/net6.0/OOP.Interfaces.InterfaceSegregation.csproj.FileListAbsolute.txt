@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\bin\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\bin\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\bin\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\bin\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\bin\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\refint\OOP.Interfaces.InterfaceSegregation.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\OOP.Interfaces.InterfaceSegregation.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Interfaces.InterfaceSegregation\obj\Debug\net6.0\ref\OOP.Interfaces.InterfaceSegregation.dll

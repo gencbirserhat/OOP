@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\bin\Debug\net6.0\OOP.Generic.ArrayApp.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\bin\Debug\net6.0\OOP.Generic.ArrayApp.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\bin\Debug\net6.0\OOP.Generic.ArrayApp.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\bin\Debug\net6.0\OOP.Generic.ArrayApp.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\bin\Debug\net6.0\OOP.Generic.ArrayApp.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\refint\OOP.Generic.ArrayApp.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\OOP.Generic.ArrayApp.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Generic.ArrayApp\obj\Debug\net6.0\ref\OOP.Generic.ArrayApp.dll

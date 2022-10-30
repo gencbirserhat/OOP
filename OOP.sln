@@ -13,15 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces", "OOP.Inter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IFormattables", "OOP.Interfaces.IFormattable\OOP.Interfaces.IFormattables.csproj", "{B559FEBC-E826-47E9-8E19-CDBC2B4DFD7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.ICloneables", "OOP.Interfaces.ICloneable\OOP.Interfaces.ICloneables.csproj", "{906811A8-8E30-442A-AAFF-984A3B374163}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.ICloneables", "OOP.Interfaces.ICloneable\OOP.Interfaces.ICloneables.csproj", "{906811A8-8E30-442A-AAFF-984A3B374163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IComparables", "OOP.Interfaces.IComparables\OOP.Interfaces.IComparables.csproj", "{C71B4F6A-36D6-4AAE-80C1-34B333895223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IComparables", "OOP.Interfaces.IComparables\OOP.Interfaces.IComparables.csproj", "{C71B4F6A-36D6-4AAE-80C1-34B333895223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IComparablesT", "OOP.Interfaces.IComparablesT\OOP.Interfaces.IComparablesT.csproj", "{9AA5F62B-2362-4924-8B49-9FE82661369D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IComparablesT", "OOP.Interfaces.IComparablesT\OOP.Interfaces.IComparablesT.csproj", "{9AA5F62B-2362-4924-8B49-9FE82661369D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IEnumerators", "OOP.Interfaces.IEnumerators\OOP.Interfaces.IEnumerators.csproj", "{FD0D2324-529C-4A51-9FB4-CD6F54F95073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IEnumerators", "OOP.Interfaces.IEnumerators\OOP.Interfaces.IEnumerators.csproj", "{FD0D2324-529C-4A51-9FB4-CD6F54F95073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IEnumerables", "OOP.Interfaces.IEnumerable\OOP.Interfaces.IEnumerables.csproj", "{2B6995B8-3166-4F9E-A269-82BE5B353B87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IEnumerables", "OOP.Interfaces.IEnumerable\OOP.Interfaces.IEnumerables.csproj", "{2B6995B8-3166-4F9E-A269-82BE5B353B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.LooselyCoupled", "OOP.Interfaces.LooselyCoupled\OOP.Interfaces.LooselyCoupled.csproj", "{796FB0BD-0741-44EF-81FD-A4D25C02B97F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.InterfaceSegregation", "OOP.Interfaces.InterfaceSegregation\OOP.Interfaces.InterfaceSegregation.csproj", "{C8F4CD82-F965-4797-B859-016EAD488A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Generic.ArrayApp", "OOP.Generic.ArrayApp\OOP.Generic.ArrayApp.csproj", "{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{2B6995B8-3166-4F9E-A269-82BE5B353B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6995B8-3166-4F9E-A269-82BE5B353B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B6995B8-3166-4F9E-A269-82BE5B353B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796FB0BD-0741-44EF-81FD-A4D25C02B97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796FB0BD-0741-44EF-81FD-A4D25C02B97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796FB0BD-0741-44EF-81FD-A4D25C02B97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796FB0BD-0741-44EF-81FD-A4D25C02B97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F4CD82-F965-4797-B859-016EAD488A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F4CD82-F965-4797-B859-016EAD488A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F4CD82-F965-4797-B859-016EAD488A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F4CD82-F965-4797-B859-016EAD488A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
