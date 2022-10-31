@@ -13,7 +13,7 @@
                 new Employee("Sero", "Aslan", 25),
                 new Employee("Muhittim", "Aslan", 52),
                 new Employee("Bejo", "Aslan", 32));
-           var list = employee.GetEmployees();
+            var list = employee.GetEmployees();
 
             foreach (var item in list)
             {

@@ -18,6 +18,8 @@ namespace OOP.AbstractClassAndMethods
         public void Insert(int item)
         {
             _list.Add(item);
+            
+            
         }
 
         //abstract method

@@ -3,12 +3,10 @@
     class Employee
     {
 
-        private string _firstname;
-        private string _lastname;
         private List<Employee> _list;
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
         public int Age { get; set; }
 
         public List<Employee> Employees => _list;
