@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IEnumerators
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IEnumerables", "OOP.Interfaces.IEnumerable\OOP.Interfaces.IEnumerables.csproj", "{2B6995B8-3166-4F9E-A269-82BE5B353B87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.LooselyCoupled", "OOP.Interfaces.LooselyCoupled\OOP.Interfaces.LooselyCoupled.csproj", "{796FB0BD-0741-44EF-81FD-A4D25C02B97F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.LooselyCoupled", "OOP.Interfaces.LooselyCoupled\OOP.Interfaces.LooselyCoupled.csproj", "{796FB0BD-0741-44EF-81FD-A4D25C02B97F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.InterfaceSegregation", "OOP.Interfaces.InterfaceSegregation\OOP.Interfaces.InterfaceSegregation.csproj", "{C8F4CD82-F965-4797-B859-016EAD488A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.InterfaceSegregation", "OOP.Interfaces.InterfaceSegregation\OOP.Interfaces.InterfaceSegregation.csproj", "{C8F4CD82-F965-4797-B859-016EAD488A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Generic.ArrayApp", "OOP.Generic.ArrayApp\OOP.Generic.ArrayApp.csproj", "{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Generic.ArrayApp", "OOP.Generic.ArrayApp\OOP.Generic.ArrayApp.csproj", "{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Exam", "OOP.Exam\OOP.Exam.csproj", "{48017BF4-8A5E-4DDE-8454-20D36D4C59FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44B3845B-3E2E-4AC5-BAAF-D87DA6A50121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48017BF4-8A5E-4DDE-8454-20D36D4C59FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48017BF4-8A5E-4DDE-8454-20D36D4C59FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48017BF4-8A5E-4DDE-8454-20D36D4C59FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48017BF4-8A5E-4DDE-8454-20D36D4C59FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

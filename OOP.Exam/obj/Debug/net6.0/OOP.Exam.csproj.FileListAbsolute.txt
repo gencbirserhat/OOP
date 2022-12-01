@@ -1,0 +1,15 @@
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\bin\Debug\net6.0\OOP.Exam.exe
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\bin\Debug\net6.0\OOP.Exam.deps.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\bin\Debug\net6.0\OOP.Exam.runtimeconfig.json
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\bin\Debug\net6.0\OOP.Exam.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\bin\Debug\net6.0\OOP.Exam.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.csproj.AssemblyReference.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.AssemblyInfoInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.AssemblyInfo.cs
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\refint\OOP.Exam.dll
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.pdb
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\OOP.Exam.genruntimeconfig.cache
+C:\Users\Serhat\Documents\GitHub\OOP\OOP.Exam\obj\Debug\net6.0\ref\OOP.Exam.dll
